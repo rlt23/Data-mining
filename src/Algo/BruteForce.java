@@ -38,7 +38,7 @@ public class BruteForce {
 			
 			//Scanner mystorageObj = new Scanner(System.in);
 			System.out.println("Enter Support Value in percentage%"); // enter support between 0-100
-			support = mystorageObj.nextInt();
+			support = mystorageObj.nextInt();//a,b,c
 			//support = 10;
 			finalSupp=15;
 			System.out.println("Enter Confidence Value in percentage"); //enter confidence between 0-100
